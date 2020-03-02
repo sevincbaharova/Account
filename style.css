@@ -1,0 +1,82 @@
+body {
+    margin: 0px;
+ 
+}
+section {
+   width: 100%;
+   height: 44em;
+    background-image: url("./image19.jpg");
+   background-attachment: fixed;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    padding-top: 3em;
+    background-position: bottom;
+ 
+}
+
+div.hclass{
+    background-color: rgb(230, 123, 141);
+    margin:auto;
+    width: 12em ; height: 10em;
+    border: none;
+    padding-left: 80px;
+    padding-bottom: 80px;
+    padding-top: 50px;
+    padding-right: 80px;
+    background-attachment: fixed;
+    border: lightpink;
+    border-style: ridge;
+    box-shadow: black;
+   
+    
+
+}
+.hclass .button{
+    
+    border: none;
+    padding: 15px 60px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 50px 10px;
+   border-bottom-left-radius: 30px;
+   border-top-left-radius: 30px;
+   border-top-right-radius: 30px;
+   border-bottom-right-radius: 30px;
+   transition-duration: 0.4s;
+   background-color: lightpink;
+   color: indigo;
+   
+   
+}
+.hclass.button :hover {
+    background-color: rgb(245, 35, 67);
+    color: rgb(175, 84, 250);
+}
+.h1class{
+    text-align: center;
+    font-family: 'Pacifico'; 
+    font-size: 4em;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    color: rgb(128, 15, 122);
+   
+}
+.h6class{
+    background-color: pink;
+    border: none;
+    padding: 10px 50px;
+    text-align:center;
+    display: inline-block;
+    font-size: 20px;
+    margin: auto;
+   border-radius: 5em ;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-left: 30em;
+}
+.h7class{
+margin-bottom: 0px;
+margin-top: 0px;
+margin-left: 38em;
+}
